@@ -1,140 +1,376 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="3rayzje8PTW5ji1f7xMd">
-    <mxGraphModel dx="1444" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1004" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Lehrplangebiet" vertex="1">
-          <mxGeometry height="20" width="90" x="125" y="50" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-32" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Lernplangebiet: Elektrizität und Magnetismus" vertex="1">
+          <mxGeometry height="860" width="400" x="40" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Elektrizität und Magnetismus" vertex="1">
-          <mxGeometry height="20" width="90" x="125" y="80" as="geometry" />
-        </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-19" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="JiE1QSr1k2QlUtx11WYC-8">
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-19" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="JiE1QSr1k2QlUtx11WYC-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-20" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.501;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="JiE1QSr1k2QlUtx11WYC-10">
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-20" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.501;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="JiE1QSr1k2QlUtx11WYC-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-22" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="JiE1QSr1k2QlUtx11WYC-11">
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-22" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="JiE1QSr1k2QlUtx11WYC-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-23" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="JiE1QSr1k2QlUtx11WYC-13">
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-23" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="JiE1QSr1k2QlUtx11WYC-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-24" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="JiE1QSr1k2QlUtx11WYC-14">
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-24" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="JiE1QSr1k2QlUtx11WYC-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-25" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="JiE1QSr1k2QlUtx11WYC-15">
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-25" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="JiE1QSr1k2QlUtx11WYC-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Elektrostatische sowie ferromagnetische Phänomene kennen" vertex="1">
-          <mxGeometry height="60" width="120" x="110" y="140" as="geometry" />
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-4" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Elektrostatische sowie ferromagnetische Phänomene kennen" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-7" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-5" value="">
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-7" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-5" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-8" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-2">
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-8" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-9" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-3">
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-9" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-10" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-4">
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-10" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-11" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-6">
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-11" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Einfache Gleichstromkreise zeichnen, aufbauen, ausmessen und berechnen können" vertex="1">
-          <mxGeometry height="80" width="120" x="110" y="430" as="geometry" />
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-5" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Einfache Gleichstromkreise zeichnen, aufbauen, ausmessen und berechnen können" vertex="1">
+          <mxGeometry height="80" width="120" x="30" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-16" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-13">
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-16" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-17" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-15">
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-17" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Beziehung zwischen bewegten Ladungen und Magnetfeldern" vertex="1">
-          <mxGeometry height="60" width="120" x="110" y="630" as="geometry" />
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-6" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Beziehung zwischen bewegten Ladungen und Magnetfeldern" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="530" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-26" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-18">
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-26" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-27" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-19">
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-27" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-28" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-21">
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-28" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-29" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-23">
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-29" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-30" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-24">
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-30" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-31" edge="1" parent="1" source="JiE1QSr1k2QlUtx11WYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-25">
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-31" edge="1" parent="ymzApfcyiYoC5mfPWEEo-32" source="JiE1QSr1k2QlUtx11WYC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Über grundlegende Kenntnisse im Umgang mit der Elektrizität im Alltag verfügen" vertex="1">
-          <mxGeometry height="90" width="120" x="110" y="760" as="geometry" />
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-7" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Über grundlegende Kenntnisse im Umgang mit der Elektrizität im Alltag verfügen" vertex="1">
+          <mxGeometry height="90" width="120" x="30" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Ladung" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="140" as="geometry" />
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-8" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Ladung" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Elementarladung" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="170" as="geometry" />
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-10" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Elementarladung" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="70" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Coulombkraft" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="200" as="geometry" />
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-11" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Coulombkraft" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Polarisation" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="230" as="geometry" />
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-13" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Polarisation" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="130" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Influenz" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="260" as="geometry" />
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-14" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Influenz" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="JiE1QSr1k2QlUtx11WYC-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Eigenschaften ferromagnetischer Stoffe" vertex="1">
-          <mxGeometry height="60" width="120" x="315" y="290" as="geometry" />
+        <mxCell id="JiE1QSr1k2QlUtx11WYC-15" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Eigenschaften ferromagnetischer Stoffe" vertex="1">
+          <mxGeometry height="60" width="120" x="235" y="190" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Stromstärke" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="430" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-2" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Stromstärke" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Spannung" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="455" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-3" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Spannung" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="355" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Widerstand" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="480" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-4" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Widerstand" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Messungen am Stromkreis" vertex="1">
-          <mxGeometry height="40" width="120" x="315" y="505" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-5" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Messungen am Stromkreis" vertex="1">
+          <mxGeometry height="40" width="120" x="235" y="405" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="elektrische Leistung" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="550" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-6" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="elektrische Leistung" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="450" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Lorentzkraft" vertex="1">
-          <mxGeometry height="30" width="120" x="315" y="630" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-13" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Lorentzkraft" vertex="1">
+          <mxGeometry height="30" width="120" x="235" y="530" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Anwendungen der Lorentzkraft" vertex="1">
-          <mxGeometry height="40" width="120" x="315" y="670" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-15" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Anwendungen der Lorentzkraft" vertex="1">
+          <mxGeometry height="40" width="120" x="235" y="570" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Sicherung" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="760" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-18" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Sicherung" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="660" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Erdung" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="790" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-19" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Erdung" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="690" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Stromschalter" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="820" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-21" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Stromschalter" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="720" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Stecker" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="850" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-23" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Stecker" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="750" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Phasenprüfer" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="890" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-24" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Phasenprüfer" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="790" as="geometry" />
         </mxCell>
-        <mxCell id="ymzApfcyiYoC5mfPWEEo-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Stromkosten" vertex="1">
-          <mxGeometry height="20" width="120" x="315" y="920" as="geometry" />
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-25" parent="ymzApfcyiYoC5mfPWEEo-32" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Stromkosten" vertex="1">
+          <mxGeometry height="20" width="120" x="235" y="820" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-34" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Ziele" vertex="1">
+          <mxGeometry height="1270" width="800" x="510" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-36" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Richtziele" vertex="1">
+          <mxGeometry height="20" width="120" x="20" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-54" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-65" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-37" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Überfachliche Ziele" vertex="1">
+          <mxGeometry height="20" width="120" x="20" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-76" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-77" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-78" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-79" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-80" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-81" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-82" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-83" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-85" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-38" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Allgemeine Bildungsziele" vertex="1">
+          <mxGeometry height="40" width="120" x="40" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-55" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-56" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-57" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-58" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-59" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-60" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-39" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Methoden- und Medienkompetenzen" vertex="1">
+          <mxGeometry height="40" width="120" x="180" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-61" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-62" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-63" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-64" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-40" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Bildung für eine nachhaltige Entwicklung" vertex="1">
+          <mxGeometry height="60" width="120" x="180" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-41" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Erkennen und einordnen physikalischer Zusammenhänge im Alltag" vertex="1">
+          <mxGeometry height="50" width="220" x="360" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-42" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Gezieltes Beobachten von Vorgängen in der Natur" vertex="1">
+          <mxGeometry height="40" width="220" x="360" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-43" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Manuelle Fähigkeiten beim Umgang mit Messgeräten und Laborapparaturen" vertex="1">
+          <mxGeometry height="50" width="220" x="360" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-44" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Beobachtungssituationen planen, durchführen und die gewonnen Daten auszuwerten" vertex="1">
+          <mxGeometry height="60" width="220" x="360" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-45" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Nutzung entsprechender Software und des Internets als Informationsquelle" vertex="1">
+          <mxGeometry height="50" width="220" x="360" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-46" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Nutzung der in der Physik entwickelten Denkmodelle" vertex="1">
+          <mxGeometry height="40" width="220" x="360" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-50" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Grundzüge der qualitativen und quantitativen Methoden und deren Grenzen reflektieren" vertex="1">
+          <mxGeometry height="70" width="220" x="360" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-51" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Vermittlung der Grundbausteine zum Aufbau eines umfassenden Weltbildes" vertex="1">
+          <mxGeometry height="60" width="220" x="360" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-52" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Konsequenzen ihres Handelns abzuschätzen, sowohl in Alltag und Beruf als auch in demokratischen Entscheidungsprozessen" vertex="1">
+          <mxGeometry height="80" width="220" x="360" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-53" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Wissen um die Zusammenhänge und Folgen des Einsatzes moderner Technologien" vertex="1">
+          <mxGeometry height="60" width="220" x="360" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-49" edge="1" parent="ymzApfcyiYoC5mfPWEEo-34" source="ymzApfcyiYoC5mfPWEEo-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-66" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="genaues Beobachten" vertex="1">
+          <mxGeometry height="20" width="220" x="360" y="770" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-67" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="sprachliches Erfassen von Phänomenen und Gesetzmässigkeiten" vertex="1">
+          <mxGeometry height="40" width="220" x="360" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-68" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Entwickeln von Modellvorstellungen" vertex="1">
+          <mxGeometry height="20" width="220" x="360" y="880" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-69" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Denken in kausalen Zusammenhängen" vertex="1">
+          <mxGeometry height="30" width="220" x="360" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-70" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="rechnerisch-mathematische Aspekte" vertex="1">
+          <mxGeometry height="30" width="220" x="360" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-71" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="physikalische Zusammenhänge im Alltag erkennen und einzuordnen" vertex="1">
+          <mxGeometry height="40" width="220" x="360" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-72" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Grundzüge der qualitativen und quantitativen Methoden und deren Anwendung und Grenzen reflektieren" vertex="1">
+          <mxGeometry height="60" width="220" x="360" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-73" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Grundbausteine zum Aufbau eines umfassenden Weltbildes" vertex="1">
+          <mxGeometry height="40" width="220" x="360" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-74" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="informiert, bewusst und verantwortungsvoll Entscheidungen zu Technik und Umwelt treffen" vertex="1">
+          <mxGeometry height="60" width="220" x="360" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-48" parent="ymzApfcyiYoC5mfPWEEo-34" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Einsatz von Software zur Datenerfassung, Datenauswertung (Tabellenkalkulation) und Simulation" vertex="1">
+          <mxGeometry height="90" width="120" x="640" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-134" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Fachsystematische Ebene" vertex="1">
+          <mxGeometry height="1270" width="750" x="1440" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-149" edge="1" parent="ymzApfcyiYoC5mfPWEEo-134" source="ymzApfcyiYoC5mfPWEEo-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-150" edge="1" parent="ymzApfcyiYoC5mfPWEEo-134" source="ymzApfcyiYoC5mfPWEEo-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-151" edge="1" parent="ymzApfcyiYoC5mfPWEEo-134" source="ymzApfcyiYoC5mfPWEEo-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-152" edge="1" parent="ymzApfcyiYoC5mfPWEEo-134" source="ymzApfcyiYoC5mfPWEEo-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-153" edge="1" parent="ymzApfcyiYoC5mfPWEEo-134" source="ymzApfcyiYoC5mfPWEEo-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-154" edge="1" parent="ymzApfcyiYoC5mfPWEEo-134" source="ymzApfcyiYoC5mfPWEEo-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-155" edge="1" parent="ymzApfcyiYoC5mfPWEEo-134" source="ymzApfcyiYoC5mfPWEEo-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-135" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Grundbegriffe und Zusammenhänge" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-159" edge="1" parent="ymzApfcyiYoC5mfPWEEo-134" source="ymzApfcyiYoC5mfPWEEo-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-160" edge="1" parent="ymzApfcyiYoC5mfPWEEo-134" source="ymzApfcyiYoC5mfPWEEo-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-162" edge="1" parent="ymzApfcyiYoC5mfPWEEo-134" source="ymzApfcyiYoC5mfPWEEo-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-158">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-136" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Gesetze" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-137" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Modelle" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-138" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Messgeräte und Standardexperimente" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-139" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Grössen und Einheiten" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-140" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="typische Aufgaben" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-142" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Ladung" vertex="1">
+          <mxGeometry height="20" width="120" x="230" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-143" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Stromstärke" vertex="1">
+          <mxGeometry height="20" width="120" x="230" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-144" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Spannung" vertex="1">
+          <mxGeometry height="20" width="120" x="230" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-145" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Widerstand" vertex="1">
+          <mxGeometry height="20" width="120" x="230" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-146" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="elektrische Leistung" vertex="1">
+          <mxGeometry height="20" width="120" x="230" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-147" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Lorentzkraft" vertex="1">
+          <mxGeometry height="20" width="120" x="230" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-148" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Coulombkraft" vertex="1">
+          <mxGeometry height="20" width="120" x="230" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-156" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Das Coulomb&#39;sche Gesetz" vertex="1">
+          <mxGeometry height="30" width="120" x="230" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-157" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Das Gauss&#39;sche Gesetz" vertex="1">
+          <mxGeometry height="30" width="120" x="230" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-158" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Das Faraday&#39;sche Gesetz" vertex="1">
+          <mxGeometry height="30" width="120" x="230" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-163" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Analogien" vertex="1">
+          <mxGeometry height="60" width="120" x="210" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-166" edge="1" parent="ymzApfcyiYoC5mfPWEEo-134" source="ymzApfcyiYoC5mfPWEEo-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-165" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-164" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Stromkreis" vertex="1">
+          <mxGeometry height="60" width="120" x="370" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ymzApfcyiYoC5mfPWEEo-165" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="570" y="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
