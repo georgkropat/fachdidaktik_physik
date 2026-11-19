@@ -839,13 +839,13 @@
         <mxCell id="NKwUFJbYDQrn5bIeKiHI-214" parent="NKwUFJbYDQrn5bIeKiHI-283" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Die Erdanziehung ist eine Folge des Magnetismus" vertex="1">
           <mxGeometry height="48.5" width="120" x="20" y="192.1400000000001" as="geometry" />
         </mxCell>
-        <mxCell id="raD8IP04NQ5T00nMWhwS-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontStyle=1" value="Elektrizität im Alltag" vertex="1">
+        <mxCell id="raD8IP04NQ5T00nMWhwS-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Elektrizität im Alltag" vertex="1">
           <mxGeometry height="30" width="150" x="4995" y="751" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Magnetismus" vertex="1">
           <mxGeometry height="45" width="155" x="3670" y="1247.06" as="geometry" />
         </mxCell>
-        <mxCell id="raD8IP04NQ5T00nMWhwS-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;fontStyle=1" value="Stromkreis" vertex="1">
+        <mxCell id="raD8IP04NQ5T00nMWhwS-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Stromkreis" vertex="1">
           <mxGeometry height="30" width="135" x="4510" y="751" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=30;fontStyle=1" value="Elektrostatik" vertex="1">
@@ -1043,16 +1043,16 @@
           <mxGeometry height="20" width="120" x="5010" y="830" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-36" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#cce5ff;" value="Erdung" vertex="1">
-          <mxGeometry height="20" width="120" x="5010" y="860" as="geometry" />
+          <mxGeometry height="20" width="120" x="5010" y="862" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#cce5ff;" value="Stromschalter" vertex="1">
-          <mxGeometry height="20" width="120" x="5010" y="890" as="geometry" />
+          <mxGeometry height="20" width="120" x="5010" y="894" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-38" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#cce5ff;" value="Stecker" vertex="1">
-          <mxGeometry height="20" width="120" x="5010" y="920" as="geometry" />
+          <mxGeometry height="20" width="120" x="5010" y="926" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#cce5ff;" value="Phasenprüfer" vertex="1">
-          <mxGeometry height="20" width="120" x="5010" y="960" as="geometry" />
+          <mxGeometry height="20" width="120" x="5010" y="958" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#cce5ff;" value="Stromkosten" vertex="1">
           <mxGeometry height="20" width="120" x="5010" y="990" as="geometry" />
@@ -1100,22 +1100,22 @@
           <mxGeometry height="80" width="195" x="3565" y="650" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;shape=mxgraph.basic.cloud_callout;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=19;spacingRight=20;spacingBottom=17;spacing=4;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fillColor=#ffe6cc;" value="Es kommt auf die Kraft zwischen Körpern an – weniger auf das Feld" vertex="1">
-          <mxGeometry height="90" width="195" x="3438.22" y="564.25" as="geometry" />
+          <mxGeometry height="90" width="195" x="3910" y="636" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffe6cc;strokeColor=#d79b00;shape=mxgraph.basic.cloud_callout;fontFamily=Helvetica;fontSize=12;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=19;spacingRight=20;spacingBottom=17;spacing=4;sketch=1;curveFitting=1;jiggle=2;" value="Spannung ist eine Eigenschaft des elektrischen Stromes" vertex="1">
           <mxGeometry height="100.48" width="200.96" x="6935" y="-819.22" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;shape=mxgraph.basic.cloud_callout;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=19;spacingRight=20;spacingBottom=17;spacing=4;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fillColor=#ffe6cc;" value="Im Isolator ist kein Feld" vertex="1">
-          <mxGeometry height="80" width="195" x="3751.45" y="380" as="geometry" />
+          <mxGeometry height="80" width="195" x="3820" y="458" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-73" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;shape=mxgraph.basic.cloud_callout;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=19;spacingRight=20;spacingBottom=17;spacing=4;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fillColor=#ffe6cc;" value="Der elektrische Strom verursacht das elektrische Feld" vertex="1">
           <mxGeometry height="62.25" width="220" x="4344.04" y="884" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-74" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;shape=mxgraph.basic.cloud_callout;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=19;spacingRight=20;spacingBottom=17;spacing=4;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fillColor=#ffe6cc;" value="Für das Feld ist Luft notwendig" vertex="1">
-          <mxGeometry height="62.25" width="195" x="3330" y="489.85" as="geometry" />
+          <mxGeometry height="62.25" width="195" x="3420" y="568.88" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;shape=mxgraph.basic.cloud_callout;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=19;spacingRight=20;spacingBottom=17;spacing=4;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fillColor=#ffe6cc;" value="Je mehr Ladung, desto stärker" vertex="1">
-          <mxGeometry height="53.6" width="251.86" x="3788.14" y="468.5" as="geometry" />
+          <mxGeometry height="53.6" width="251.86" x="3481" y="904.4" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Das Teilchen bewegt sich entlang der Feldlinie" vertex="1">
           <mxGeometry height="41.5" width="195" x="6355" y="-1308.8599999999997" as="geometry" />
