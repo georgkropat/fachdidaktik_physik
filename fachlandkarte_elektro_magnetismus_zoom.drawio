@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="3rayzje8PTW5ji1f7xMd">
-    <mxGraphModel dx="4285" dy="10513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="3626" dy="10155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-34" connectable="0" parent="raD8IP04NQ5T00nMWhwS-33" style="edgeLabel;resizable=0;html=1;inheritText=fontFamily,fontColor,fontStyle,textOpacity,labelBorderColor,labelBorderWidth,labelBackgroundColor,defaultLabelBackgroundColor,labelPadding;;align=center;verticalAlign=middle;fontSize=20;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="Faraday&#39;sches&lt;div&gt;Gesetz&lt;/div&gt;" vertex="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-26" y="49" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-35" parent="KWmKc65CZCgUpGyIkITy-2" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;sketch=1;jiggle=2;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=#cce5ff;" value="Sicherung" vertex="1">
           <mxGeometry height="30.486374935509584" width="182.91834992887624" x="2652.3160739687055" y="777.4025608554946" as="geometry" />
