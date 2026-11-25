@@ -1,1 +1,16 @@
-<mxlibrary>[]</mxlibrary>
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;fontFamily=Helvetica;fontSize=12;align=left;verticalAlign=middle;spacingLeft=68;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"72.75\" width=\"200.96\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" connectable=\"0\" parent=\"2\" style=\"shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40.54538216560509\" width=\"30.40903662420382\" x=\"13.305462284227952\" y=\"19.548666401273884\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200.96,
+    "h": 72.75,
+    "aspect": "fixed",
+    "title": "Experiment"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffe6cc;strokeColor=#d79b00;shape=mxgraph.basic.cloud_callout;fontFamily=Helvetica;fontSize=12;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=19;spacingRight=20;spacingBottom=17;spacing=4;sketch=1;curveFitting=1;jiggle=2;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"100.48\" width=\"200.96\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200.96,
+    "h": 100.48,
+    "aspect": "fixed",
+    "title": "Schülervorstellung"
+  }
+]</mxlibrary>
