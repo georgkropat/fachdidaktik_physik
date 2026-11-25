@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Seite-1" id="3rayzje8PTW5ji1f7xMd">
-    <mxGraphModel dx="2438" dy="9200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="7874" pageHeight="7874" math="1" shadow="0">
+    <mxGraphModel dx="1745" dy="9044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="7874" pageHeight="7874" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -398,44 +398,83 @@
         <mxCell id="hZ1vuWI1kpmOm-_qJPeu-32" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Experimente&lt;/font&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1040" y="1086.52" as="geometry" />
         </mxCell>
-        <mxCell id="hZ1vuWI1kpmOm-_qJPeu-33" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Elektrostatische Aufladung mit Glasstab und Tuch&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="1086.52" as="geometry" />
+        <mxCell id="hZ1vuWI1kpmOm-_qJPeu-33" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Elektrostatische Aufladung mit Glasstab und Tuch&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="62.25" width="167" x="1193" y="1096" as="geometry" />
         </mxCell>
-        <mxCell id="hZ1vuWI1kpmOm-_qJPeu-34" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Van-de-Graaff-Generator" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="1159.52" as="geometry" />
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-12" connectable="0" parent="hZ1vuWI1kpmOm-_qJPeu-33" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="11.056987467486403" y="16.72720939490446" as="geometry" />
         </mxCell>
-        <mxCell id="NKwUFJbYDQrn5bIeKiHI-3" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Reibungselektrizität" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="1231.52" as="geometry" />
+        <mxCell id="hZ1vuWI1kpmOm-_qJPeu-34" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Van-de-Graaff-Generator" vertex="1">
+          <mxGeometry height="40" width="167" x="1193" y="1170" as="geometry" />
         </mxCell>
-        <mxCell id="NKwUFJbYDQrn5bIeKiHI-4" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Elektroden in Flüssigkeiten" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="1304.52" as="geometry" />
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-13" connectable="0" parent="hZ1vuWI1kpmOm-_qJPeu-34" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="11.056987467486403" y="10.748407643312103" as="geometry" />
         </mxCell>
-        <mxCell id="NKwUFJbYDQrn5bIeKiHI-5" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Magisches Lineal" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="1376.52" as="geometry" />
+        <mxCell id="NKwUFJbYDQrn5bIeKiHI-3" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Reibungselektrizität mit Luftballons" vertex="1">
+          <mxGeometry height="40" width="167" x="1193" y="1242" as="geometry" />
         </mxCell>
-        <mxCell id="NKwUFJbYDQrn5bIeKiHI-6" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Speichervermögen eines Plattenkondensators" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="1449.52" as="geometry" />
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-14" connectable="0" parent="NKwUFJbYDQrn5bIeKiHI-3" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="11.056987467486403" y="10.748407643312103" as="geometry" />
         </mxCell>
-        <mxCell id="NKwUFJbYDQrn5bIeKiHI-7" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Simulation zum Plattenkondensator" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="1521.52" as="geometry" />
+        <mxCell id="NKwUFJbYDQrn5bIeKiHI-4" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Elektroden in Flüssigkeiten" vertex="1">
+          <mxGeometry height="40" width="127" x="1193" y="1315" as="geometry" />
         </mxCell>
-        <mxCell id="NKwUFJbYDQrn5bIeKiHI-8" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Auf- und Entladevorgänge an einem Kondensator" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="1594.52" as="geometry" />
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-15" connectable="0" parent="NKwUFJbYDQrn5bIeKiHI-4" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="18.265298438003025" width="13.69897382850227" x="8.408607235753134" y="10.748407643312103" as="geometry" />
         </mxCell>
-        <mxCell id="NKwUFJbYDQrn5bIeKiHI-9" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Eigenschaften von Äquipotentiallinien" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="1666.52" as="geometry" />
+        <mxCell id="NKwUFJbYDQrn5bIeKiHI-5" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Magisches Lineal" vertex="1">
+          <mxGeometry height="40" width="135" x="1193" y="1387" as="geometry" />
         </mxCell>
-        <mxCell id="NKwUFJbYDQrn5bIeKiHI-11" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Experiment: Stromwaage" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="1739.52" as="geometry" />
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-16" connectable="0" parent="NKwUFJbYDQrn5bIeKiHI-5" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="8.938283282099787" y="10.748407643312103" as="geometry" />
         </mxCell>
-        <mxCell id="NKwUFJbYDQrn5bIeKiHI-12" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Magnetische Flussdichte im Innern einer langgestreckten Spule" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="1811.52" as="geometry" />
+        <mxCell id="NKwUFJbYDQrn5bIeKiHI-6" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Speichervermögen eines Plattenkondensators" vertex="1">
+          <mxGeometry height="53.6" width="180" x="1193" y="1460" as="geometry" />
         </mxCell>
-        <mxCell id="NKwUFJbYDQrn5bIeKiHI-13" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Faraday&#39;scher Becher" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="1884.52" as="geometry" />
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-17" connectable="0" parent="NKwUFJbYDQrn5bIeKiHI-6" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="11.917711042799716" y="14.402866242038218" as="geometry" />
         </mxCell>
-        <mxCell id="NKwUFJbYDQrn5bIeKiHI-14" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Untersuchung der Abhängigkeit der Induktionsspannung" vertex="1">
-          <mxGeometry height="60" width="120" x="1200" y="1956.52" as="geometry" />
+        <mxCell id="NKwUFJbYDQrn5bIeKiHI-7" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Simulation zum Plattenkondensator" vertex="1">
+          <mxGeometry height="40" width="155" x="1193" y="1532" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-18" connectable="0" parent="NKwUFJbYDQrn5bIeKiHI-7" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="10.262473397966422" y="10.748407643312103" as="geometry" />
+        </mxCell>
+        <mxCell id="NKwUFJbYDQrn5bIeKiHI-8" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Auf- und Entladevorgänge an einem Kondensator" vertex="1">
+          <mxGeometry height="53.6" width="180" x="1193" y="1605" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-19" connectable="0" parent="NKwUFJbYDQrn5bIeKiHI-8" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="11.917711042799716" y="14.402866242038218" as="geometry" />
+        </mxCell>
+        <mxCell id="NKwUFJbYDQrn5bIeKiHI-9" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Eigenschaften von Äquipotentiallinien" vertex="1">
+          <mxGeometry height="40" width="167" x="1193" y="1677" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-20" connectable="0" parent="NKwUFJbYDQrn5bIeKiHI-9" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="11.056987467486403" y="10.748407643312103" as="geometry" />
+        </mxCell>
+        <mxCell id="NKwUFJbYDQrn5bIeKiHI-11" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Experiment: Stromwaage" vertex="1">
+          <mxGeometry height="40" width="135" x="1193" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-21" connectable="0" parent="NKwUFJbYDQrn5bIeKiHI-11" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="8.938283282099787" y="10.748407643312103" as="geometry" />
+        </mxCell>
+        <mxCell id="NKwUFJbYDQrn5bIeKiHI-12" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Magnetische Flussdichte im Innern einer langgestreckten Spule" vertex="1">
+          <mxGeometry height="48" width="197" x="1193" y="1822" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-22" connectable="0" parent="NKwUFJbYDQrn5bIeKiHI-12" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="13.043272641286356" y="12.898089171974522" as="geometry" />
+        </mxCell>
+        <mxCell id="NKwUFJbYDQrn5bIeKiHI-13" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Faraday&#39;scher Becher" vertex="1">
+          <mxGeometry height="40" width="135" x="1193" y="1895" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-23" connectable="0" parent="NKwUFJbYDQrn5bIeKiHI-13" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="8.938283282099787" y="10.748407643312103" as="geometry" />
+        </mxCell>
+        <mxCell id="NKwUFJbYDQrn5bIeKiHI-14" parent="ymzApfcyiYoC5mfPWEEo-134" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Untersuchung der Abhängigkeit der Induktionsspannung" vertex="1">
+          <mxGeometry height="53.6" width="155" x="1193" y="1967" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-24" connectable="0" parent="NKwUFJbYDQrn5bIeKiHI-14" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="10.262473397966422" y="14.402866242038218" as="geometry" />
         </mxCell>
         <mxCell id="NKwUFJbYDQrn5bIeKiHI-175" parent="ymzApfcyiYoC5mfPWEEo-134" style="swimlane;whiteSpace=wrap;html=1;swimlaneLine=1;glass=0;rounded=0;" value="Gössen und Einheiten" vertex="1">
           <mxGeometry height="1446.98" width="610" x="160" y="1000" as="geometry" />
@@ -896,6 +935,9 @@
         <mxCell id="hZ1vuWI1kpmOm-_qJPeu-2" edge="1" parent="1" source="ymzApfcyiYoC5mfPWEEo-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="ymzApfcyiYoC5mfPWEEo-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-45" edge="1" parent="1" source="ymzApfcyiYoC5mfPWEEo-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VDqJBhxvaiM_Ao8VICT5-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ymzApfcyiYoC5mfPWEEo-163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Analogien" vertex="1">
           <mxGeometry height="60" width="120" x="3150" y="2018.17" as="geometry" />
         </mxCell>
@@ -945,10 +987,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ymzApfcyiYoC5mfPWEEo-137" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Modelle" vertex="1">
-          <mxGeometry height="20" width="120" x="3070" y="2248.17" as="geometry" />
+          <mxGeometry height="20" width="120" x="3170" y="2410" as="geometry" />
         </mxCell>
         <mxCell id="hZ1vuWI1kpmOm-_qJPeu-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Elektronen fließen im Kreis&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="20" width="155" x="3400" y="2248.17" as="geometry" />
+          <mxGeometry height="20" width="155" x="3500" y="2410" as="geometry" />
         </mxCell>
         <mxCell id="hZ1vuWI1kpmOm-_qJPeu-20" edge="1" parent="1" source="hZ1vuWI1kpmOm-_qJPeu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="hZ1vuWI1kpmOm-_qJPeu-18">
           <mxGeometry relative="1" as="geometry" />
@@ -957,13 +999,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hZ1vuWI1kpmOm-_qJPeu-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Stromkreis" vertex="1">
-          <mxGeometry height="20" width="120" x="3240" y="2248.17" as="geometry" />
+          <mxGeometry height="20" width="120" x="3340" y="2410" as="geometry" />
         </mxCell>
         <mxCell id="hZ1vuWI1kpmOm-_qJPeu-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Felder und Ströme&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="22.05" width="155" x="3400" y="2276.17" as="geometry" />
+          <mxGeometry height="22.05" width="155" x="3500" y="2438" as="geometry" />
         </mxCell>
         <mxCell id="hZ1vuWI1kpmOm-_qJPeu-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Bändermodell&lt;/font&gt;&lt;/p&gt;" vertex="1">
-          <mxGeometry height="22.05" width="155" x="3400" y="2306.17" as="geometry" />
+          <mxGeometry height="22.05" width="155" x="3500" y="2468" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-8" edge="1" parent="1" source="ymzApfcyiYoC5mfPWEEo-144" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" target="ymzApfcyiYoC5mfPWEEo-145" value="">
           <mxGeometry relative="1" as="geometry">
@@ -1100,7 +1142,7 @@
           <mxGeometry height="80" width="195" x="3565" y="650" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;shape=mxgraph.basic.cloud_callout;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=19;spacingRight=20;spacingBottom=17;spacing=4;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fillColor=#ffe6cc;" value="Es kommt auf die Kraft zwischen Körpern an – weniger auf das Feld" vertex="1">
-          <mxGeometry height="90" width="195" x="3910" y="636" as="geometry" />
+          <mxGeometry height="90" width="195" x="4015" y="645" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffe6cc;strokeColor=#d79b00;shape=mxgraph.basic.cloud_callout;fontFamily=Helvetica;fontSize=12;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=19;spacingRight=20;spacingBottom=17;spacing=4;sketch=1;curveFitting=1;jiggle=2;" value="Spannung ist eine Eigenschaft des elektrischen Stromes" vertex="1">
           <mxGeometry height="100.48" width="200.96" x="6935" y="-819.22" as="geometry" />
@@ -1115,7 +1157,7 @@
           <mxGeometry height="62.25" width="195" x="3420" y="568.88" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;shape=mxgraph.basic.cloud_callout;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=19;spacingRight=20;spacingBottom=17;spacing=4;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fillColor=#ffe6cc;" value="Je mehr Ladung, desto stärker" vertex="1">
-          <mxGeometry height="53.6" width="251.86" x="3481" y="904.4" as="geometry" />
+          <mxGeometry height="53.6" width="251.86" x="3381.36" y="919" as="geometry" />
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-76" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Das Teilchen bewegt sich entlang der Feldlinie" vertex="1">
           <mxGeometry height="41.5" width="195" x="6355" y="-1308.8599999999997" as="geometry" />
@@ -1149,6 +1191,63 @@
         </mxCell>
         <mxCell id="raD8IP04NQ5T00nMWhwS-86" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;shape=mxgraph.basic.cloud_callout;fontFamily=Helvetica;fontSize=12;fontColor=default;fontStyle=0;align=center;verticalAlign=middle;spacingLeft=19;spacingRight=20;spacingBottom=17;spacing=4;sketch=1;jiggle=2;curveFitting=1;strokeColor=#d79b00;fillColor=#ffe6cc;" value="Strom wird verbraucht" vertex="1">
           <mxGeometry height="65" width="180" x="4995" y="602" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="&lt;p style=&quot;margin: 0px; font-style: normal; font-variant-caps: normal; font-weight: normal; font-width: normal; line-height: normal; font-family: Helvetica; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Elektrostatische Aufladung mit Glasstab und Tuch&lt;/font&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="62.25" width="167" x="3848" y="751" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-26" connectable="0" parent="VDqJBhxvaiM_Ao8VICT5-25" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="11.056987467486403" y="16.72720939490446" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Faraday&#39;scher Becher" vertex="1">
+          <mxGeometry height="40" width="135" x="3605" y="767.7299999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-28" connectable="0" parent="VDqJBhxvaiM_Ao8VICT5-27" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="8.938283282099787" y="10.748407643312103" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Reibungselektrizität mit Luftballons" vertex="1">
+          <mxGeometry height="40" width="167" x="3990" y="522.1" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-30" connectable="0" parent="VDqJBhxvaiM_Ao8VICT5-29" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="11.056987467486403" y="10.748407643312103" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Van-de-Graaff-Generator" vertex="1">
+          <mxGeometry height="40" width="167" x="3848" y="862" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-32" connectable="0" parent="VDqJBhxvaiM_Ao8VICT5-31" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="11.056987467486403" y="10.748407643312103" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Magisches Lineal" vertex="1">
+          <mxGeometry height="40" width="135" x="3866.0600000000004" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-34" connectable="0" parent="VDqJBhxvaiM_Ao8VICT5-33" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="8.938283282099787" y="10.748407643312103" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Eigenschaften von Äquipotentiallinien" vertex="1">
+          <mxGeometry height="40" width="167" x="3653" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-36" connectable="0" parent="VDqJBhxvaiM_Ao8VICT5-35" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="11.056987467486403" y="10.748407643312103" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-37" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Magnetische Flussdichte im Innern einer langgestreckten Spule" vertex="1">
+          <mxGeometry height="48" width="197" x="4065" y="1223.52" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-38" connectable="0" parent="VDqJBhxvaiM_Ao8VICT5-37" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="13.043272641286356" y="12.898089171974522" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Untersuchung der Abhängigkeit der Induktionsspannung" vertex="1">
+          <mxGeometry height="53.6" width="155" x="4165" y="848.4000000000001" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-40" connectable="0" parent="VDqJBhxvaiM_Ao8VICT5-39" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="10.262473397966422" y="14.402866242038218" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-41" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;arcSize=12;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=1.5;align=left;spacingLeft=36;spacingRight=14;spacingTop=10;spacingBottom=10;sketch=1;curveFitting=1;jiggle=2;" value="Experiment: Stromwaage" vertex="1">
+          <mxGeometry height="40" width="135" x="3910" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-42" connectable="0" parent="VDqJBhxvaiM_Ao8VICT5-41" style="shape=image;imageAspect=1;aspect=fixed;html=1;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI1NiIgdmlld0JveD0iMCAwIDQ4IDU2Ij48cGF0aCBkPSJNMTcgNWgxNE0xOSA1djE4TDcgNDRxLTMgNiA0IDZoMjZxNyAwIDQtNkwyOSAyM1Y1IiBmaWxsPSJub25lIiBzdHJva2U9IiMzMjYzNDciIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTUgMzRoMThsNyAxMnExIDItMyAySDExcS00IDAtMy0yeiIgZmlsbD0iIzg3YmQ5MSIvPjxjaXJjbGUgY3g9IjIyIiBjeT0iMzkiIHI9IjIiIGZpbGw9IiNlOWY1ZTgiLz48Y2lyY2xlIGN4PSIyOCIgY3k9IjQ0IiByPSIyIiBmaWxsPSIjZTlmNWU4Ii8+PC9zdmc+;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" value="" vertex="1">
+          <mxGeometry height="19.41586841834967" width="14.561901313762254" x="8.938283282099787" y="10.748407643312103" as="geometry" />
+        </mxCell>
+        <mxCell id="VDqJBhxvaiM_Ao8VICT5-44" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Elektrisches Potential" vertex="1">
+          <mxGeometry height="60" width="120" x="3310" y="2270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
