@@ -1,0 +1,16 @@
+---
+title: "Elektrizitätslehre"
+---
+
+[← Zurück zur Übersicht](../index.qmd)
+
+Ein zentraler Zusammenhang ist:
+
+$$
+U_{AB} = \varphi_A - \varphi_B
+$$
+
+## Reflexion
+
+Welche Vorstellungen bringen Schülerinnen und Schüler
+zum Begriff Spannung mit?

@@ -16,15 +16,6 @@ Hier dokumentiere ich, wie ich Physikunterricht gestalten möchte.
 </iframe>
 ```
 
-## Elektrizitätslehre
+## Themen
 
-Ein zentraler Zusammenhang ist:
-
-$$
-U_{AB} = \varphi_A - \varphi_B
-$$
-
-## Reflexion
-
-Welche Vorstellungen bringen Schülerinnen und Schüler
-zum Begriff Spannung mit?
+- [Elektrizitätslehre](themen/elektrizitaetslehre.qmd)
