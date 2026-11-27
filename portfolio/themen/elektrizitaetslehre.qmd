@@ -31,14 +31,3 @@ title: "Elektrizitätslehre"
 | 11      | Stecker, Phasenprüfer, Stromkosten                                       | [Planen](elektrizitaetslehre_lektionen/lektion-11.qmd) |
 
 : Lektionenplanung Elektrizitätslehre {#tbl-lektionenplanung}
-
-Ein zentraler Zusammenhang ist:
-
-$$
-U_{AB} = \varphi_A - \varphi_B
-$$
-
-## Reflexion
-
-Welche Vorstellungen bringen Schülerinnen und Schüler
-zum Begriff Spannung mit?
