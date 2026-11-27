@@ -19,5 +19,12 @@
     "h": 40,
     "aspect": "fixed",
     "title": "Grundbegriff"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" parent=\"1\" style=\"rounded=1;arcSize=12;whiteSpace=wrap;html=1;fillColor=#EDE5F5;strokeColor=#80619D;strokeWidth=1.5;fontColor=#49335E;fontFamily=Helvetica;fontSize=12;align=left;verticalAlign=middle;spacingLeft=52;spacingRight=14;sketch=1;curveFitting=1;jiggle=2;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"40\" width=\"200\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" connectable=\"0\" parent=\"2\" style=\"group\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"8.73\" width=\"40.56\" x=\"8.888888888888888\" y=\"15.636363636363635\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" connectable=\"0\" parent=\"3\" style=\"group\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"8.73\" width=\"40.56\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" parent=\"4\" style=\"rounded=0;html=1;fillColor=#FFFFFF;strokeColor=#80619D;strokeWidth=1.5;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"8.73\" width=\"13.334794520547945\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"6\" parent=\"4\" style=\"rounded=0;html=1;fillColor=#FFFFFF;strokeColor=#80619D;strokeWidth=1.5;\" value=\"\" vertex=\"1\"&gt;&lt;mxGeometry height=\"8.73\" width=\"13.334794520547945\" x=\"27.225205479452057\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"7\" edge=\"1\" parent=\"4\" source=\"5\" style=\"edgeStyle=none;html=1;startArrow=classic;startFill=1;endArrow=classic;endFill=1;startSize=1;endSize=1;strokeColor=#80619D;strokeWidth=1.5;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;\" target=\"6\" value=\"\"&gt;&lt;mxGeometry relative=\"1\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 200,
+    "h": 40,
+    "aspect": "fixed",
+    "title": "Modellanalogie"
   }
 ]</mxlibrary>
