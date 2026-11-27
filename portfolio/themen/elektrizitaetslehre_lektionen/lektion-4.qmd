@@ -5,7 +5,18 @@ title: "Lektion 4: Elektrischer Stromkreis, Stromstärke, Reihenschaltung, Paral
 [← Zurück zur Elektrizitätslehre](../elektrizitaetslehre.qmd)
 
 ## Lernziele
+- Die SuS haben eine intuitive Vorstellung der Spannung in elektrischen Stromkreisen.
+- Die SuS haben eine intuitive Vorstellung der Stromstärke in elektrischen Stromkreisen.
+- Die SuS können Stromstärken und Spannungen in Parallel und Reihenschaltungen berechnen
 
 ## Ablauf
+Grundprinzip: Flipped classroom
+
+### Vorbereitungsphase
+- Sich spielerisch mit Gasen vertraut machen um das Elektronengasmodell zu verstehen ([Link](https://anilpunjabi.itch.io/under-pressure?utm_source=chatgpt.com))
+- SuS bauen zuhause virtuell einen elektrischen Stromkreis auf und messen den Strom ([Link](https://phytet.tetfolio.de/1700590))
+
+
+|Zeit|
 
 ## Material

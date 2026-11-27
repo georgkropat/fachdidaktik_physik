@@ -1,0 +1,104 @@
+---
+title: "Elektrischer Stromkreis"
+subtitle: "Stromstärke, Reihenschaltung, Parallelschaltung"
+format:
+  revealjs:
+    theme: simple
+    slide-number: true
+    incremental: false
+---
+
+## Der elektrische Stromkreis
+
+Ein **Stromkreis** besteht mindestens aus:
+
+- einer Spannungsquelle (z. B. Batterie)
+- einem Verbraucher (z. B. Lampe)
+- Verbindungsleitungen
+
+Nur wenn der Kreis **geschlossen** ist, fliesst Strom.
+
+## Elektronengasmodell
+
+- Elektrisches Verhalten lässt sich mit einem **Gasmodell** veranschaulichen: Elektronen verhalten sich wie Teilchen in einem Gas.
+- Die **Spannung** treibt die Elektronen an (vergleichbar mit einem Druckunterschied).
+- Die **Stromstärke** beschreibt, wie viele Elektronen pro Zeit durch den Leiter fliessen.
+
+## Stromstärke $I$
+
+$$
+I = \frac{Q}{t}
+$$
+
+- $Q$: transportierte Ladung (Einheit: Coulomb, C)
+- $t$: Zeit (Einheit: Sekunde, s)
+- Einheit von $I$: Ampere (A)
+
+::: {.callout-note}
+Die Stromstärke wird mit einem Amperemeter **in Reihe** zum Bauteil gemessen.
+:::
+
+## Reihenschaltung
+
+::: {.columns}
+::: {.column width="50%"}
+- Bauteile liegen **hintereinander**
+- Nur **ein** Strompfad
+:::
+::: {.column width="50%"}
+- Stromstärke überall gleich:
+  $$I = I_1 = I_2 = \dots$$
+- Spannungen addieren sich:
+  $$U = U_1 + U_2 + \dots$$
+:::
+:::
+
+## Beispiel: Reihenschaltung
+
+Zwei Lampen in Reihe an $U = 12\,\text{V}$, gemessene Stromstärke $I = 0{,}5\,\text{A}$.
+
+- Da in Reihe: $I_1 = I_2 = 0{,}5\,\text{A}$
+- Wenn $U_1 = 5\,\text{V}$, dann:
+  $$U_2 = U - U_1 = 12\,\text{V} - 5\,\text{V} = 7\,\text{V}$$
+
+## Parallelschaltung
+
+::: {.columns}
+::: {.column width="50%"}
+- Bauteile liegen **nebeneinander**
+- **Mehrere** Strompfade
+:::
+::: {.column width="50%"}
+- Spannung überall gleich:
+  $$U = U_1 = U_2 = \dots$$
+- Stromstärken addieren sich:
+  $$I = I_1 + I_2 + \dots$$
+:::
+:::
+
+## Beispiel: Parallelschaltung
+
+Zwei Lampen parallel an $U = 9\,\text{V}$.
+
+- Gemessen: $I_1 = 0{,}3\,\text{A}$, $I_2 = 0{,}2\,\text{A}$
+- Gesamtstromstärke:
+  $$I = I_1 + I_2 = 0{,}3\,\text{A} + 0{,}2\,\text{A} = 0{,}5\,\text{A}$$
+
+## Reihen- vs. Parallelschaltung
+
+| | Reihenschaltung | Parallelschaltung |
+|---|---|---|
+| Strompfade | einer | mehrere |
+| $I$ | gleich überall | addiert sich |
+| $U$ | addiert sich | gleich überall |
+
+## Zusammenfassung
+
+- Stromkreis muss geschlossen sein, damit Strom fliesst
+- $I = Q / t$
+- Reihenschaltung: $I$ gleich, $U$ addiert sich
+- Parallelschaltung: $U$ gleich, $I$ addiert sich
+
+## Zurück
+
+[← Zurück zu Lektion 4](lektion-4.qmd)
