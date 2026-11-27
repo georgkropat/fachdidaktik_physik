@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - diagramme/fachlandkarte_elektro_magnetismus_zoom.drawio.html
 
 website:
   title: "Portfolio Fachdidaktik"
@@ -16,6 +18,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-
