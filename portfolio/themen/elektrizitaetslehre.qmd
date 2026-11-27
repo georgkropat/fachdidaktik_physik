@@ -4,6 +4,34 @@ title: "Elektrizitätslehre"
 
 [← Zurück zur Übersicht](../index.qmd)
 
+## Fachlandkarte
+
+```{=html}
+<iframe
+  src="diagramme/fachlandkarte_elektro_magnetismus_zoom.drawio.html"
+  title="Interaktive Fachlandkarte Physik"
+  style="width: 100%; height: 75vh; border: none;">
+</iframe>
+```
+
+## Lektionenplanung
+
+| Lektion | Themen                                                                   | Planung |
+| ------- | ------------------------------------------------------------------------ | ------- |
+| 1       | Ladung, Elementarladung, Coulombkraft                                    | [Planen](elektrizitaetslehre_lektionen/lektion-1.qmd) |
+| 2       | Elektrische Felder, elektrisches Potential, Spannung                     | [Planen](elektrizitaetslehre_lektionen/lektion-2.qmd) |
+| 3       | Polarisation, Elektrische Dipole                                         | [Planen](elektrizitaetslehre_lektionen/lektion-3.qmd) |
+| 4       | Elektrischer Stromkreis, Stromstärke, Reihenschaltung, Parallelschaltung | [Planen](elektrizitaetslehre_lektionen/lektion-4.qmd) |
+| 5       | Widerstand, Messungen am Stromkreis                                      | [Planen](elektrizitaetslehre_lektionen/lektion-5.qmd) |
+| 6       | Elektrische Leistung                                                     | [Planen](elektrizitaetslehre_lektionen/lektion-6.qmd) |
+| 7       | Lorentzkraft                                                             | [Planen](elektrizitaetslehre_lektionen/lektion-7.qmd) |
+| 8       | Anwendungen der Lorentzkraft                                             | [Planen](elektrizitaetslehre_lektionen/lektion-8.qmd) |
+| 9       | Eigenschaften Ferromagnetischer Stoffe                                   | [Planen](elektrizitaetslehre_lektionen/lektion-9.qmd) |
+| 10      | Sicherung, Erdung, Stromschalter                                         | [Planen](elektrizitaetslehre_lektionen/lektion-10.qmd) |
+| 11      | Stecker, Phasenprüfer, Stromkosten                                       | [Planen](elektrizitaetslehre_lektionen/lektion-11.qmd) |
+
+: Lektionenplanung Elektrizitätslehre {#tbl-lektionenplanung}
+
 Ein zentraler Zusammenhang ist:
 
 $$

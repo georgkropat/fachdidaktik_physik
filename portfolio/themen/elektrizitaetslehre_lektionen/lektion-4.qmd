@@ -1,0 +1,11 @@
+---
+title: "Lektion 4: Elektrischer Stromkreis, Stromstärke, Reihenschaltung, Parallelschaltung"
+---
+
+[← Zurück zur Elektrizitätslehre](../elektrizitaetslehre.qmd)
+
+## Lernziele
+
+## Ablauf
+
+## Material

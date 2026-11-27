@@ -6,15 +6,7 @@ title: "Mein Portfolio Fachdidaktik Physik"
 
 Hier dokumentiere ich, wie ich Physikunterricht gestalten möchte.
 
-## Fachlandkarte
 
-```{=html}
-<iframe
-  src="diagramme/fachlandkarte_elektro_magnetismus_zoom.drawio.html"
-  title="Interaktive Fachlandkarte Physik"
-  style="width: 100%; height: 75vh; border: none;">
-</iframe>
-```
 
 ## Themen
 

@@ -1,0 +1,11 @@
+---
+title: "Lektion 5: Widerstand, Messungen am Stromkreis"
+---
+
+[← Zurück zur Elektrizitätslehre](../elektrizitaetslehre.qmd)
+
+## Lernziele
+
+## Ablauf
+
+## Material

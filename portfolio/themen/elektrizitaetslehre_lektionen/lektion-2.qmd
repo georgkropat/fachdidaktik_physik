@@ -1,0 +1,11 @@
+---
+title: "Lektion 2: Elektrische Felder, elektrisches Potential, Spannung"
+---
+
+[← Zurück zur Elektrizitätslehre](../elektrizitaetslehre.qmd)
+
+## Lernziele
+
+## Ablauf
+
+## Material
