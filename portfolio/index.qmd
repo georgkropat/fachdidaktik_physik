@@ -1,0 +1,24 @@
+---
+title: "Mein Portfolio Fachdidaktik Physik"
+---
+
+## Mein Unterrichtsverständnis
+
+Hier dokumentiere ich, wie ich Physikunterricht gestalten möchte.
+
+## Fachlandkarte
+
+Hier wird meine interaktive Fachlandkarte eingebettet.
+
+## Elektrizitätslehre
+
+Ein zentraler Zusammenhang ist:
+
+$$
+U_{AB} = \varphi_A - \varphi_B
+$$
+
+## Reflexion
+
+Welche Vorstellungen bringen Schülerinnen und Schüler
+zum Begriff Spannung mit?
