@@ -8,7 +8,7 @@ title: "Elektrizitätslehre"
 
 ```{=html}
 <iframe
-  src="diagramme/fachlandkarte_elektro_magnetismus_zoom.drawio.html"
+  src="../diagramme/fachlandkarte_elektro_magnetismus_zoom.drawio.html"
   title="Interaktive Fachlandkarte Physik"
   style="width: 100%; height: 75vh; border: none;">
 </iframe>
